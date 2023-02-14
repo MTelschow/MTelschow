@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MTelschow
-- 👀 I’m interested in WebDev
-- 🌱 I’m currently learning Fullstack JS
+- 👀 I’m interested in Front-End-Development at the moment
+- 🌱 I’m currently learning React via the Meta Front-End Developer Professional Certificate course
 - 💞️ I’m looking to collaborate on things comming up in the future
 - 📫 How to reach me: mathistelschow@gmail.com
 
