@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MTelschow
+- 👋 Hi, I’m @MTelschow, but you can call me Matt
 - 👀 I’m interested in Front-End-Development at the moment
 - 🌱 I’m currently learning React via the Meta Front-End Developer Professional Certificate course
 - 💞️ I’m looking to collaborate on things comming up in the future
