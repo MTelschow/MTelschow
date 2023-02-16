@@ -1,4 +1,4 @@
-# Hi 👋, I'm Mathis Telschow
+# Hi there 👋, I'm Mathis!
 
 **`Front-End Developer (React/Vanilla JS)`**
 
@@ -22,6 +22,7 @@ I'm an self taught web developer challenging myself to learn by building project
 ### 📊 Stats
 
 ![Mathis' GitHub stats](https://github-readme-stats.vercel.app/api?username=MTelschow&show_icons=true&theme=gruvbox)
+![Math's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=MTelschow&theme=gruvbox&border_radius=4.5) -->
 
