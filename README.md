@@ -20,9 +20,8 @@ I'm an self taught web developer challenging myself to learn by building project
 #
 
 ### 📊 Stats
-
-![Mathis' GitHub stats](https://github-readme-stats.vercel.app/api?username=MTelschow&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=MTelschow&show_icons=true&theme=radical" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MTelschow&layout=compact" />
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=MTelschow&theme=gruvbox&border_radius=4.5) -->
 
