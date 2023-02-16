@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mathis</h1>
 <h3 align="center">A curios frontend developer from Germany</h3>
-<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/xUA7bdpLxQhsSQdyog" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/night-programming-programmer-xUA7bdpLxQhsSQdyog">via GIPHY</a></p>
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
+
 
 - 🔭 I’m currently working on [Calculator](https://mtelschow.github.io/calculator/)
 
