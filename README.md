@@ -1,4 +1,4 @@
-# 🎉 Mathis Telschow
+# Hi 👋, I'm Mathis Telschow
 
 **`Front-End Developer (React/Vanilla JS)`**
 
