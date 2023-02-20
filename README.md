@@ -2,7 +2,7 @@
 
 **`Front-End Developer (React/Vanilla JS)`**
 
-I'm an self taught web developer challenging myself to learn by building projects using new technologies. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. 
+I'm an self taught web developer building projects to learn new technologies and solve problems. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. 
 
 
 ---
