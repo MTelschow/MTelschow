@@ -31,5 +31,5 @@ I'm an self taught web developer building projects to learn new technologies and
 
 <details>
  <summary><h3>👨‍💻 Mathis' Coding Journey</h3></summary>
-   I started my coding journey at a university course on web development. After learning the basics i realised that i wanted to dive even deeper in the field and started to explore different related subjects. All this led to me taking Harvard univerity's "CS50" course and learing fundamental skills and concepts of computer science. Following up on the course I got the "Meta Front-End Developer Professional Certificate" to really get a good understanding and practice with the React "framwork".
- At the current moment I am putting all the learnings into practice by building real projects to sharpen my skills and solve problems.
+   I started my coding journey at a university course on web development. After learning the basics i realised that i wanted to dive even deeper in the field and started to explore different related subjects. All this led to me taking Harvard univerity's "CS50" course and learing fundamental skills and concepts of computer science.
+ At the current moment I am putting all the learnings into practice by building projects to sharpen my skills.
