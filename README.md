@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Mathis!
 
-**`Front-End Developer (React/Vanilla JS)`**
+**`Front-End Developer (React/Javascript)`**
 
 I'm an self taught web developer building projects to learn new technologies and solve problems. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. 
 
