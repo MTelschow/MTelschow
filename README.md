@@ -7,8 +7,9 @@ I'm an self taught web developer building projects to learn new technologies and
 
 ---
 ### 📊 Stats
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=MTelschow&show_icons=true&theme=radical" />
-<img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MTelschow&layout=compact" />
+<img align="left" width="47%" src="https://github-readme-stats-mtelschow.vercel.app//api?username=MTelschow&show_icons=true&theme=radical" />
+<img width="47%" src="https://github-readme-stats-mtelschow.vercel.app//api/top-langs/?username=MTelschow&layout=compact" />
+
 
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=MTelschow&theme=gruvbox&border_radius=4.5) -->
