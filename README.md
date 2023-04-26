@@ -7,7 +7,7 @@ Full-Stack Software Developer | React | NextJS
 I'm a software developer using React, Node, Express, SQL, ... and thrilled to learn further!
 
 * 🌍  I'm based in Frankfurt, Germany
-* 🖥️  See my portfolio [here](https://https://mtelschow-simplefolio.netlify.app/)
+* 🖥️  See my portfolio [here](https://mtelschow-simplefolio.netlify.app/)
 * ✉️  You can contact me at [mathistelschow@gmail.com](mailto:mathistelschow@gmail.com)
 * 🚀  I'm currently working on [Smart-Brain: Full-Stack Face Detection App](http://smart-brain-s7t9.onrender.com/)
 * 🧠  I'm learning Redux and Docker
