@@ -4,7 +4,7 @@
 Full-Stack Software Developer | React | NextJS
 -----------------------------
 
-I'm a software developer using React, Node, Express, SQL, ... and thrilled to learn further!
+I'm a software developer using React, NextJS, Node, SQL and am thrilled to learn new technologies!
 
 * 🌍  I'm based in Frankfurt, Germany
 * 🖥️  See my [portfolio](https://mathis-telschow-portfolio.netlify.app/)
