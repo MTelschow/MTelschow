@@ -10,7 +10,7 @@ I'm a software developer using React, Node, Express, SQL and more and thrilled t
 * 🖥️  See my portfolio at [mathistelschow.app](http://https://mtelschow-simplefolio.netlify.app/)
 * ✉️  You can contact me at [mathistelschow@gmail.com](mailto:mathistelschow@gmail.com)
 * 🚀  I'm currently working on [Smart-Brain: Full-Stack Face Detection App](http://smart-brain-s7t9.onrender.com/)
-* 🧠  I'm learning Redux and Pathfinding Algorithms
+* 🧠  I'm learning Redux and Docker
 
 ### Skills
 
