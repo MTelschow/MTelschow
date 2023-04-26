@@ -4,7 +4,7 @@
 Full-Stack Software Developer
 -----------------------------
 
-I'm a software developer using React, Node, Express, SQL and more and thrilled to learn even more!
+I'm a software developer using React, Node, Express, SQL, ... and thrilled to learn further!
 
 * 🌍  I'm based in Frankfurt, Germany
 * 🖥️  See my portfolio at [mathistelschow.app](http://https://mtelschow-simplefolio.netlify.app/)
