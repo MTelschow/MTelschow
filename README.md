@@ -41,7 +41,7 @@ I'm a software developer using React, Node, Express, SQL, ... and thrilled to le
 
 <b>My GitHub Stats</b>
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=MTelschow&show_icons=true&hide=contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="MTelschow's GitHub stats" />
+<img align="left" width="47%" src="https://github-readme-stats-mtelschow.vercel.app/api?username=MTelschow&show_icons=true&hide=contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="MTelschow's GitHub stats" />
 <img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=MTelschow&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
 
 
@@ -50,7 +50,7 @@ I'm a software developer using React, Node, Express, SQL, ... and thrilled to le
 <div width="50%" align="left"><a href="https://github.com/MTelschow/smart-brain" align="left"><img align="left" width="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=MTelschow&repo=smart-brain&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
 <a href="https://github.com/MTelschow/Sorting-Visualiser" align="left"><img align="left" width="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=MTelschow&repo=Sorting-Visualiser&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
 <a href="https://github.com/MTelschow/smart-brain-api" align="left"><img align="left" width="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=MTelschow&repo=smart-brain-api&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MTelschow&hide=css,makefile&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
+<img src="https://github-readme-stats-mtelschow.vercel.app/api/top-langs/?username=MTelschow&hide=css,makefile&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
 </div>
 
 <br /><br /><br /><br /><br /><br /><br />
