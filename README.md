@@ -10,7 +10,7 @@ I'm a software developer using React, Next.js, Node, SQL and am thrilled to lear
 * 🖥️  See my [portfolio](https://mathis-telschow.netlify.app/)
 * ✉️  You can contact me at [mathistelschow@gmail.com](mailto:mathistelschow@gmail.com)
 * 🚀  I'm currently working on [Smart-Brain: Full-Stack Face Detection App](https://github.com/MTelschow/smart-brain)
-* 🧠  I'm learning Redux and Docker
+* 🧠  I'm learning Next.JS and GraphQL
 
 ### Skills
 
