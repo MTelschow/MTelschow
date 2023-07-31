@@ -4,13 +4,13 @@
 Full-Stack Software Developer | React | NextJS
 -----------------------------
 
-I'm a software developer using React, Next.js, Node, SQL and am thrilled to learn new technologies!
+I'm a software developer using React, Next.js, Node, and SQL and am thrilled to learn new technologies!
 
 * 🌍  I'm based in Frankfurt, Germany
 * 🖥️  See my [portfolio](https://mathis-telschow.netlify.app/)
 * ✉️  You can contact me at [mathistelschow@gmail.com](mailto:mathistelschow@gmail.com)
 * 🚀  I'm currently working on [Smart-Brain: Full-Stack Face Detection App](https://github.com/MTelschow/smart-brain)
-* 🧠  I'm learning Next.JS and GraphQL
+* 🧠  I'm learning Angular and Spring Boot
 
 ### Skills
 
@@ -20,7 +20,7 @@ I'm a software developer using React, Next.js, Node, SQL and am thrilled to lear
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
 <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
-<a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
+<!-- <a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a> -->
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
