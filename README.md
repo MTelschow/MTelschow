@@ -51,7 +51,7 @@ I'm a software developer using React, Next.js, TypeScript, and SQL and am thrill
 <div width="50%" align="left"><a href="https://github.com/MTelschow/smart-brain" align="left"><img align="left" width="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=MTelschow&repo=smart-brain&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
 <a href="https://github.com/MTelschow/Sorting-Visualiser" align="left"><img align="left" width="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=MTelschow&repo=Sorting-Visualiser&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
 <a href="https://github.com/MTelschow/discover-coffee-stores" align="left"><img align="left" width="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=MTelschow&repo=discover-coffee-stores&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MTelschow&hide=css,makefile&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MTelschow&hide=html,css,makefile&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
 </div>
 
 <br /><br /><br /><br /><br /><br /><br />
